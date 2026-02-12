@@ -26,24 +26,6 @@ I am seeking an opportunity as a Junior Information Security Analyst or SOC Anal
 | Security Tools: Nmap, Wireshark, vulnerability scanning basics, MITRE ATT&CK framework   | 
 
 
-## Certifications
-
-<div>
- <a href="https://www.netacad.com" target="_blank" class="cert cisco">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Cisco_Networking_Academy_logo.svg" alt="Cisco Networking Academy">
-    Cisco Academy
-  </a>
-<a href="https://www.wiseup.com" target="_blank" class="cert wiseup">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Wise_Up_logo.png" alt="Wise Up">
-    Wise Up
-  </a>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
 ## Projects
 - Detection Lab
 - SOC Automation Project
